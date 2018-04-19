@@ -1,2 +1,2 @@
 # cl-calculator
-This project is a command line interface calculator
+This program is a command line interface calculator
